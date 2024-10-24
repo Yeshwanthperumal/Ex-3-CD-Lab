@@ -16,9 +16,9 @@ To write a yacc program to recognize a valid arithmetic expression that uses ope
 # PROGRAM
 Program for Recognition of a valid Arithmetic expression that uses Operator and using YAAC
 
-Developed by : PREMKUMAR K
+Developed by : YESHWANTH P
 
-RegisterNumber : 212222230111
+RegisterNumber : 212222230178
 
 ```
 %{
